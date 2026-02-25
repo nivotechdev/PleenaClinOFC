@@ -1,0 +1,130 @@
+{
+  "placeholderImages": [
+    {
+      "id": "space-interior",
+      "description": "Interior moderno e aconchegante da clínica",
+      "imageUrl": "https://images.unsplash.com/photo-1720180244339-95e56d52e182?crop=entropy&cs=tinysrgb&fit=max&fm=webp&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxtb2Rlcm4lMjBjbGluaWMlMjBpbnRlcmlvcnxlbnwwfHx8fDE3Njg4MzcyMjR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "modern clinic interior"
+    },
+    {
+      "id": "team-elisa-knorst",
+      "description": "Retrato profissional de Dra. Elisa Knorst, Farmacêutica Esteta",
+      "imageUrl": "https://images.unsplash.com/photo-1652471949169-9c587e8898cd?crop=entropy&cs=tinysrgb&fit=max&fm=webp&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxwcm9mZXNzaW9uYWwlMjBoZWFkc2hvdCUyMHdvbWFufGVufDB8fHx8fDE3Njg4MTgyMzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "professional headshot woman"
+    },
+    {
+      "id": "team-bruna-oliveira",
+      "description": "Retrato profissional de Bruna Oliveira, Extensionista de Cílios",
+      "imageUrl": "https://images.unsplash.com/photo-1762522921456-cdfe882d36c3?crop=entropy&cs=tinysrgb&fit=max&fm=webp&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwcm9mZXNzaW9uYWwlMjBoZWFkc2hvdCUyMHdvbWFuJTIwc21pbGluZ3xlbnwwfHx8fDE3Njg4MzcyMjR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "professional headshot woman smiling"
+    },
+    {
+      "id": "team-carlos-schmidt",
+      "description": "Retrato profissional de Carlos Schmidt, Nutricionista Esportivo",
+      "imageUrl": "https://images.unsplash.com/photo-1680104073282-8462cdf70b6a?crop=entropy&cs=tinysrgb&fit=max&fm=webp&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxwcm9mZXNzaW9uYWwlMjBoZWFkc2hvdCUyMG1hbnxlbnwwfHx8fDE3Njg4MzcyMjR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "professional headshot man"
+    },
+    {
+      "id": "team-fernanda-lima",
+      "description": "Retrato profissional de Fernanda Lima, Massoterapeuta",
+      "imageUrl": "https://images.unsplash.com/photo-1558239783-528531eda025?crop=entropy&cs=tinysrgb&fit=max&fm=webp&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtYXNzYWdlJTIwdGhlcmFwaXN0JTIwaGVhZHNob3R8ZW58MHx8fHwxNzIwNTMwNjIyfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "imageHint": "massage therapist headshot"
+    },
+    {
+      "id": "team-ricardo-borges",
+      "description": "Retrato profissional de Dr. Ricardo Borges, Quiropraxista",
+      "imageUrl": "https://images.unsplash.com/photo-1617870952348-752d59fb1498?crop=entropy&cs=tinysrgb&fit=max&fm=webp&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjaGlyb3ByYWN0b3IlMjBoZWFkc2hvdHxlbnwwfHx8fDE3MjA1MzA2MjJ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "imageHint": "chiropractor headshot"
+    },
+    {
+      "id": "team-ana-costa",
+      "description": "Retrato profissional de Ana Costa, Acupunturista",
+      "imageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?crop=entropy&cs=tinysrgb&fit=max&fm=webp&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxwcm9mZXNzaW9uYWwlMjBhc2lhbiUyMHdvbWFuJTIwaGVhZHNob3R8ZW58MHx8fHwxNzIwNTMwNjIyfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "imageHint": "professional asian woman headshot"
+    },
+    {
+      "id": "location-map",
+      "description": "Mapa estilizado mostrando a localização da clínica em Ivoti",
+      "imageUrl": "https://images.unsplash.com/photo-1738502602077-0738750b1f3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxpdm90aSUyMHN0eWxlZCUyMG1hcHxlbnwwfHx8fDE3NzAxMzY5MzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "ivoti styled map"
+    },
+    {
+      "id": "gallery-reception",
+      "description": "Recepção elegante da PlenaClin",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjbGluaWMlMjByZWNlcHRpb258ZW58MHx8fHwxNzY4ODM3MjI0fDA&ixlib=rb-4.1.0&q=80&w=1080&fit=max&crop=entropy&cs=tinysrgb&fm=webp",
+      "imageHint": "clinic reception"
+    },
+    {
+      "id": "gallery-corridor",
+      "description": "Corredor minimalista e iluminado da clínica",
+      "imageUrl": "https://images.unsplash.com/photo-1603145733316-12469469586c?ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtaW5pbWFsaXN0JTIwY2xpbmljJTIwY29ycmlkb3J8ZW58MHx8fHwxNzY4ODM3MjI0fDA&ixlib=rb-4.1.0&q=80&w=1080&fit=max&crop=entropy&cs=tinysrgb&fm=webp",
+      "imageHint": "minimalist clinic corridor"
+    },
+    {
+      "id": "gallery-treatment-room",
+      "description": "Sala de tratamento equipada e serena",
+      "imageUrl": "https://images.unsplash.com/photo-1631217873194-5d9b427c5938?ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx0cmVhdG1lbnQlMjByb29tJTIwYWVzdGhldGljfGVufDB8fHx8MTc2ODgzNzIyNHww&ixlib=rb-4.1.0&q=80&w=1080&fit=max&crop=entropy&cs=tinysrgb&fm=webp",
+      "imageHint": "aesthetic treatment room"
+    },
+    {
+      "id": "caring-hands",
+      "description": "Mãos de um profissional realizando um tratamento com cuidado",
+      "imageUrl": "https://images.unsplash.com/photo-1580281657527-80da2c10f545?crop=entropy&cs=tinysrgb&fit=max&fm=webp&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjYXJpbmclMjBoYW5kcyUyMHNwYXxlbnwwfHx8fDE3Njg4MzcyMjR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "caring hands spa"
+    },
+    {
+      "id": "specialty-facial",
+      "description": "Mulher recebendo um tratamento facial em uma clínica de estética",
+      "imageUrl": "https://whfdrrdozhyavyflgaxo.supabase.co/storage/v1/object/public/imgPlenaclin/procedimento%20estetico.jpg",
+      "imageHint": "facial treatment"
+    },
+    {
+      "id": "specialty-corporal",
+      "description": "Profissional realizando uma massagem corporal terapêutica",
+      "imageUrl": "https://images.unsplash.com/photo-1515377905703-c4788e51af15?q=80&w=2070&auto=format&fit=crop&fm=webp",
+      "imageHint": "body massage"
+    },
+    {
+      "id": "specialty-psicologia",
+      "description": "Ambiente de consultório de psicologia calmo e acolhedor",
+      "imageUrl": "https://images.unsplash.com/photo-1573511823139-444f6f7b15a4?q=80&w=1974&auto=format&fit=crop&fm=webp",
+      "imageHint": "therapy session"
+    },
+    {
+      "id": "specialty-quiropraxia",
+      "description": "Quiropraxista realizando um ajuste na coluna de um paciente",
+      "imageUrl": "https://whfdrrdozhyavyflgaxo.supabase.co/storage/v1/object/public/imgPlenaclin/Quiro.jpg",
+      "imageHint": "chiropractic adjustment"
+    },
+    {
+      "id": "specialty-nutricao",
+      "description": "Prato com alimentos saudáveis e coloridos, representando a nutrição",
+      "imageUrl": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?q=80&w=2070&auto=format&fit=crop&fm=webp",
+      "imageHint": "healthy food"
+    },
+    {
+      "id": "specialty-acupuntura",
+      "description": "Agulhas de acupuntura aplicadas nas costas de uma pessoa",
+      "imageUrl": "https://whfdrrdozhyavyflgaxo.supabase.co/storage/v1/object/public/imgPlenaclin/Acunpultura.jpg",
+      "imageHint": "acupuncture treatment"
+    },
+    {
+      "id": "specialty-cilios",
+      "description": "Close-up de um olho com extensão de cílios longa e volumosa",
+      "imageUrl": "https://images.unsplash.com/photo-1617228809453-73d748c9b460?q=80&w=1974&auto=format&fit=crop&fm=webp",
+      "imageHint": "eyelash extension"
+    },
+    {
+      "id": "specialty-massoterapia",
+      "description": "Profissional realizando uma massagem terapêutica",
+      "imageUrl": "https://whfdrrdozhyavyflgaxo.supabase.co/storage/v1/object/public/imgPlenaclin/MAssoterapia.jpg",
+      "imageHint": "massage therapy"
+    },
+    {
+      "id": "specialty-laser",
+      "description": "Equipamento de depilação a laser em uma clínica",
+      "imageUrl": "https://whfdrrdozhyavyflgaxo.supabase.co/storage/v1/object/public/imgPlenaclin/Whisk_46b40724569bf48a9b24c9d083951eb8dr.jpeg",
+      "imageHint": "laser hair removal"
+    }
+  ]
+}
