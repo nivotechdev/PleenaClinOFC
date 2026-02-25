@@ -5,6 +5,7 @@ import Header from '@/components/layout/header';
 import Footer from '@/components/layout/footer';
 import FloatingCTA from '@/components/landing-page/floating-cta';
 import GoogleTagManager from '@/components/layout/google-tag-manager';
+import { Suspense } from 'react';
 
 export const metadata: Metadata = {
   title: 'PlenaClin: A harmonia entre ciência e essência.',
@@ -24,7 +25,9 @@ export default function RootLayout({
         <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=PT+Sans:wght@400;700&display=swap" rel="stylesheet" />
       </head>
       <body className="font-body antialiased bg-background text-foreground overflow-x-hidden">
-        <GoogleTagManager />
+        <Suspense fallback={null}>
+          <GoogleTagManager />
+        </Suspense>
         <Header />
         <main className="flex-1">
             {children}
