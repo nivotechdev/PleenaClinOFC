@@ -10,6 +10,14 @@ import { Suspense } from 'react';
 export const metadata: Metadata = {
   title: 'PlenaClin: A harmonia entre ciência e essência.',
   description: 'PlenaClin: O refúgio em Caxias do Sul para quem busca a harmonia entre ciência, cuidado e bem-estar.',
+  icons: {
+    icon: {
+      url: "https://whfdrrdozhyavyflgaxo.supabase.co/storage/v1/object/public/logos/Design%20sem%20nome%20(6).svg",
+      type: "image/svg+xml",
+    },
+    shortcut: "https://whfdrrdozhyavyflgaxo.supabase.co/storage/v1/object/public/logos/Design%20sem%20nome%20(6).svg",
+    apple: "https://whfdrrdozhyavyflgaxo.supabase.co/storage/v1/object/public/logos/Design%20sem%20nome%20(6).svg",
+  },
 };
 
 export default function RootLayout({
