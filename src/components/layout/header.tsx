@@ -46,7 +46,7 @@ export default function Header() {
           <Link href="/" aria-label="Página Inicial">
             <div className={cn("relative logo-treatment transition-all duration-500 ease-[0.22,1,0.36,1] flex items-center", isScrolled ? "h-14" : "h-16")}>
                 <Image
-                    src="https://whfdrrdozhyavyflgaxo.supabase.co/storage/v1/object/public/Imagens/Gemini_Generated_Image_2c991s2c991s2c99-removebg-preview.png"
+                    src="/logo.png"
                     alt="PlenaClin Logo"
                     width={252}
                     height={56}
@@ -80,7 +80,7 @@ export default function Header() {
         <Link href="/" aria-label="Página Inicial">
             <div className={cn("relative logo-treatment transition-all duration-500 ease-[0.22,1,0.36,1] flex items-center", isScrolled ? "h-12" : "h-14")}>
                 <Image
-                    src="https://whfdrrdozhyavyflgaxo.supabase.co/storage/v1/object/public/Imagens/Gemini_Generated_Image_2c991s2c991s2c99-removebg-preview.png"
+                    src="/logo.png"
                     alt="PlenaClin Logo"
                     width={216}
                     height={48}
