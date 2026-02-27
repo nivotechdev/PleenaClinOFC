@@ -14,7 +14,7 @@ type TeamMember = {
 const teamMembers: TeamMember[] = [
     {
         name: 'Débora Francielle Grando',
-        role: 'Recepcionista',
+        role: 'Cirugiã Dentista - Harmonização Orofacial',
         quote: 'Cuidar é entender a necessidade do outro com empatia e ciência.',
         imageUrl: 'https://whfdrrdozhyavyflgaxo.supabase.co/storage/v1/object/public/imgPlenaclin/Debora-cirugia.dentista.jpg'
     },
@@ -152,7 +152,7 @@ export default function Team() {
             className="text-lg md:text-xl text-muted-foreground"
             variants={itemVariants}
           >
-            Nossa equipe é formada por especialistas que compartilham a mesma filosofia: cuidado integral, precisão técnica e uma profunda empatia humana.
+            Nossa equipe é formada por especialistas que compartilham a mesma filosofia: cuidado multidisciplinar, com uma abordagem holística, precisão técnica e uma profunda empatia humana.
           </motion.p>
         </div>
 

@@ -57,13 +57,7 @@ export function MobileNav({ isScrolled }: { isScrolled: boolean }) {
       <SheetContent side="right" className="bg-background text-foreground p-0 w-full max-w-sm flex flex-col">
         <SheetHeader className="p-6 flex flex-row justify-between items-center border-b space-y-0">
           <Link href="/" onClick={() => setIsOpen(false)}>
-            <Image
-              src="https://whfdrrdozhyavyflgaxo.supabase.co/storage/v1/object/public/Imagens/Gemini_Generated_Image_2c991s2c991s2c99-removebg-preview.png"
-              alt="PlenaClin Logo"
-              width={180}
-              height={40}
-              className="h-10 w-auto logo-treatment"
-            />
+          
           </Link>
           <SheetTitle className="sr-only">Menu</SheetTitle>
         </SheetHeader>
@@ -92,9 +86,7 @@ export function MobileNav({ isScrolled }: { isScrolled: boolean }) {
             <Link href="https://www.facebook.com/plenaclin" target="_blank" aria-label="Facebook">
               <Facebook className="h-6 w-6 text-muted-foreground transition-colors hover:text-primary"/>
             </Link>
-            <Link href="https://wa.me/555432234237" target="_blank" aria-label="WhatsApp">
-              <WhatsAppIcon className="h-6 w-6 text-muted-foreground transition-colors hover:text-primary" />
-            </Link>
+           
           </div>
           <Button asChild size="lg" className="w-full rounded-full">
             <Link href="https://wa.me/555432234237?text=Ol%C3%A1%2C%20gostaria%20de%20agendar%20uma%20avalia%C3%A7%C3%A3o." target="_blank">

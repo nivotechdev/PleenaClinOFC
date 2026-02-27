@@ -57,9 +57,7 @@ export default function Footer() {
                 <Link href="https://www.facebook.com/plenaclin" target="_blank" aria-label="Facebook">
                     <Facebook className="h-6 w-6 text-muted-foreground transition-colors hover:text-primary" strokeWidth={1.5}/>
                 </Link>
-                <Link href={whatsappUrl} target="_blank" aria-label="WhatsApp">
-                    <WhatsAppIcon className="h-6 w-6 text-muted-foreground transition-colors hover:text-primary" />
-                </Link>
+                
              </div>
           </div>
 

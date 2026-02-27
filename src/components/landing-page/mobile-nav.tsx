@@ -36,7 +36,7 @@ export function MobileNav() {
             <div className="p-6 flex justify-between items-center border-b">
                  <Link href="/" onClick={() => setIsOpen(false)}>
                     <Image
-                      src="https://whfdrrdozhyavyflgaxo.supabase.co/storage/v1/object/public/Imagens/Gemini_Generated_Image_2c991s2c991s2c99-removebg-preview.png"
+                      src="/logo.png"
                       alt="PlenaClin Logo"
                       width={160}
                       height={35}

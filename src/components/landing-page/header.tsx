@@ -31,7 +31,7 @@ export default function Header() {
           href="/"
         >
           <Image
-            src="https://whfdrrdozhyavyflgaxo.supabase.co/storage/v1/object/public/Imagens/Gemini_Generated_Image_2c991s2c991s2c99-removebg-preview.png"
+            src="/logo.png"
             alt="PlenaClin Logo"
             width={180}
             height={40}

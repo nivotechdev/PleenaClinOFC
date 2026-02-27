@@ -85,7 +85,7 @@ export default function Space() {
                     transition={{ duration: 1, ease: "easeOut", delay: 0.3 }}
                 >
                     <Image
-                        src="https://whfdrrdozhyavyflgaxo.supabase.co/storage/v1/object/public/Imagens/Gemini_Generated_Image_2c991s2c991s2c99-removebg-preview.png"
+                        src="/logo.png"
                         alt="PlenaClin Logo"
                         width={288}
                         height={64}
@@ -95,7 +95,7 @@ export default function Space() {
                         Sobre a PlenaClin
                     </h1>
                     <p className="text-lg md:text-xl max-w-3xl mx-auto text-muted-foreground font-body">
-                        Localizada em Ivoti, a PlenaClin oferece cuidado multidisciplinar integrado. Unimos ética, saúde e estética em um espaço planejado para proporcionar uma experiência de bem-estar completa e humanizada para cada paciente.
+                        Localizada em Ivoti, a PlenaClin oferece cuidado multidisciplinar. Unimos ética, saúde e estética em um espaço planejado para proporcionar uma experiência de bem-estar completa e humanizada para cada paciente.
                     </p>
                 </motion.div>
             </motion.section>
