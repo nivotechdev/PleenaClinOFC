@@ -36,7 +36,7 @@ export default function Hero() {
           playsInline
           className="w-full h-full object-cover"
         >
-          <source src="https://whfdrrdozhyavyflgaxo.supabase.co/storage/v1/object/public/img2/mulher.mp4" type="video/mp4" />
+          <source src="https://whfdrrdozhyavyflgaxo.supabase.co/storage/v1/object/public/imgPlenaclin/mulher.mp4" type="video/mp4" />
           Your browser does not support the video tag.
         </video>
       </motion.div>
