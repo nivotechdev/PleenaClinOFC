@@ -18,6 +18,24 @@ export const metadata: Metadata = {
     shortcut: "https://whfdrrdozhyavyflgaxo.supabase.co/storage/v1/object/public/logos/Design%20sem%20nome%20(6).svg",
     apple: "https://whfdrrdozhyavyflgaxo.supabase.co/storage/v1/object/public/logos/Design%20sem%20nome%20(6).svg",
   },
+  openGraph: {
+    title: 'Estética | PlenaClin | Rio Grande do Sul',
+    description: 'PlenaClin: O espaço em Ivoti para quem busca a harmonia entre ciência, cuidado e bem-estar.',
+    images: [
+      {
+        url: 'https://whfdrrdozhyavyflgaxo.supabase.co/storage/v1/object/public/imgPlenaclin/PLENACLIN%20(323).jpg',
+        width: 1200,
+        height: 630,
+        alt: 'PlenaClin - Harmonia entre ciência, cuidado e bem-estar.',
+      },
+    ],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Estética | PlenaClin | Rio Grande do Sul',
+    description: 'PlenaClin: O espaço em Ivoti para quem busca a harmonia entre ciência, cuidado e bem-estar.',
+    images: ['https://whfdrrdozhyavyflgaxo.supabase.co/storage/v1/object/public/imgPlenaclin/PLENACLIN%20(323).jpg'],
+  },
 };
 
 export default function RootLayout({
@@ -28,6 +46,7 @@ export default function RootLayout({
   return (
     <html lang="pt-BR">
       <head>
+        <meta itemProp="image" content="https://whfdrrdozhyavyflgaxo.supabase.co/storage/v1/object/public/imgPlenaclin/PLENACLIN%20(323).jpg" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
         <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=PT+Sans:wght@400;700&display=swap" rel="stylesheet" />
