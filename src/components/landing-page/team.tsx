@@ -53,6 +53,18 @@ const teamMembers: TeamMember[] = [
         role: 'Recepcionista',
         quote: 'O primeiro sorriso que acolhe e organiza o seu bem-estar.',
         imageUrl: 'https://whfdrrdozhyavyflgaxo.supabase.co/storage/v1/object/public/imgPlenaclin/PLENACLIN%20(128).jpg'
+    },
+    {
+        name: 'KELLY REGINA BATISTA',
+        role: 'Podóloga',
+        quote: 'Saúde para seus pés.',
+        imageUrl: 'https://whfdrrdozhyavyflgaxo.supabase.co/storage/v1/object/public/imgPlenaclin/KELLY%20REGINA%20BATISTA%20Podologa.jpeg'
+    },
+    {
+        name: 'VANESSA FEILSTRECKER',
+        role: 'Nutricionista',
+        quote: 'Nutrindo o seu bem-estar e qualidade de vida.',
+        imageUrl: 'https://whfdrrdozhyavyflgaxo.supabase.co/storage/v1/object/public/imgPlenaclin/Vanessa%20Nutricionista.jpeg'
     }
 ];
 
