@@ -9,6 +9,7 @@ type TeamMember = {
   role: string;
   quote: string;
   imageUrl: string;
+  objectPosition?: string;
 };
 
 const teamMembers: TeamMember[] = [
@@ -55,13 +56,14 @@ const teamMembers: TeamMember[] = [
         imageUrl: 'https://whfdrrdozhyavyflgaxo.supabase.co/storage/v1/object/public/imgPlenaclin/PLENACLIN%20(128).jpg'
     },
     {
-        name: 'KELLY REGINA BATISTA',
+        name: 'Kelly Regina Batista',
         role: 'Podóloga',
         quote: 'Saúde para seus pés.',
-        imageUrl: 'https://whfdrrdozhyavyflgaxo.supabase.co/storage/v1/object/public/imgPlenaclin/KELLY%20REGINA%20BATISTA%20Podologa.jpeg'
+        imageUrl: 'https://whfdrrdozhyavyflgaxo.supabase.co/storage/v1/object/public/imgPlenaclin/KELLY%20REGINA%20BATISTA%20Podologa.jpeg',
+        objectPosition: 'object-top'
     },
     {
-        name: 'VANESSA FEILSTRECKER',
+        name: 'Vanessa Feilstrecker',
         role: 'Nutricionista',
         quote: 'Nutrindo o seu bem-estar e qualidade de vida.',
         imageUrl: 'https://whfdrrdozhyavyflgaxo.supabase.co/storage/v1/object/public/imgPlenaclin/Vanessa%20Nutricionista.jpeg'
@@ -117,7 +119,7 @@ function TeamMemberCard({ member, isLast }: { member: TeamMember, isLast: boolea
             alt={`Retrato de ${member.name}`}
             fill
             sizes="(max-width: 640px) 45vw, 280px"
-            className="object-cover transition-transform duration-500 ease-in-out group-hover:scale-105"
+            className={`object-cover ${member.objectPosition || ''} transition-transform duration-500 ease-in-out group-hover:scale-105`}
           />
         ) : (
           <div className="w-full h-full bg-gray-200 flex items-center justify-center">
